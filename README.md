@@ -1,7 +1,7 @@
 # Sustainable-Mobility-Case
 
 
- # 🚗 Sustainable Urban Mobility – Agra
+ # Sustainable Urban Mobility – Agra
 
 **Project:** Sustainable Mobility Case Study for CAIC Summer of Tech 2025
 
@@ -9,7 +9,7 @@ This project aims to design a tech-driven, low-emission urban mobility strategy 
 
 ---
 
-### 🔍 Key Goals
+### Key Goals
 
 - Reduce CO₂ and PM₂.₅ emissions  
 - Boost public & active transport (walk, cycle)  
