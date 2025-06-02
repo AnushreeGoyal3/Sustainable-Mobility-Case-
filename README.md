@@ -1,9 +1,6 @@
 # Sustainable-Mobility-Case
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+
   <title>Sustainable Mobility – Agra</title>
   <style>
     body {
@@ -28,7 +25,7 @@
       border-left: 4px solid #2ecc71;
     }
   </style>
-</head>
+
 <body>
 
   <h1>🚗 Sustainable Urban Mobility – Agra</h1>
@@ -52,4 +49,4 @@
   <p><strong>Tools:</strong> Python, QGIS, SUMO, OpenStreetMap, ML models</p>
 
 </body>
-</html>
+
